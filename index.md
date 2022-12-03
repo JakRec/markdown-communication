@@ -6,3 +6,8 @@
 # h1 header - no header
 ~~~
 # h1 header
+
+- [x] Like cats
+- [x] Feed cats
+- [ ] Buy more cat food
+- [ ] Pet cat daily
